@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+!.env.example
+REST API Project.html
+REST API Project_files/
